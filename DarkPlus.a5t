@@ -1,0 +1,73 @@
+<auto_help_box="Pale Yellow">
+<auto_top_left_border="#192,192,128">
+<auto_bottom_right_border="#96,96,0">
+<auto_help_text="Black">
+<auto_help_highlight="Black">
+<auto_help_disable="Gray-50">
+
+<code_pair="Blue">
+<code_invalid="Red">
+<code_declare="Dark Yellow">
+<html_normal="Black">
+
+<code_function="#220,220,170">
+<code_dim="#197,134,192">
+<code_dlg_format="#128,128,64">
+<code_dlg_command="#64,128,64">
+<html_script="#255,128,128">
+<html_css_text="#189,205,168">
+
+<code_normal="#212,212,212">
+    <code_script_normal="=:A5.system_color_get('code_normal')">
+    <interactive_normal="=:A5.system_color_get('code_normal')">
+    <css_normal="=:A5.system_color_get('code_normal')">
+    <inner_css_normal="=:A5.system_color_get('code_normal')">
+
+<code_comment="#106,153,85">
+    <html_comment="=:A5.system_color_get('code_comment')">
+
+<code_string="#206,145,120">
+    <html_attr_text="=:A5.system_color_get('code_string')">
+    <html_attr_url="=:A5.system_color_get('code_string')">
+    <html_special="=:A5.system_color_get('code_string')">
+
+<html_tag="#181,218,254">
+    <html_css="=:A5.system_color_get('html_tag')">
+    <html_attr_name="=:A5.system_color_get('html_tag')">
+    <html_css_class="=:A5.system_color_get('html_tag')">
+    <html_css_name="=:A5.system_color_get('html_tag')">
+    <code_def_function="=:A5.system_color_get('html_tag')">
+    <code_def_class="=:A5.system_color_get('html_tag')">
+
+<expression_highlight="#30,30,30">
+    <code_highlight="=:A5.system_color_get('expression_highlight')">
+    <interactive_highlight="=:A5.system_color_get('expression_highlight')">
+    <html_highlight="=:A5.system_color_get('expression_highlight')">
+    <css_highlight="=:A5.system_color_get('expression_highlight')">
+    <inner_css_highlight="=:A5.system_color_get('expression_highlight')">
+
+<expression_background="#30,30,30;fill">
+	<embedded_html_background="=:A5.system_color_get('expression_background')">
+	<code_background="=:A5.system_color_get('expression_background')">
+	<code_comment_background="=:A5.system_color_get('expression_background')">
+	<code_string_background="=:A5.system_color_get('expression_background')">
+	<code_dialog_string_background="=:A5.system_color_get('expression_background')">
+	<line_number_background="=:A5.system_color_get('expression_background')">
+	<embedded_code_background="=:A5.system_color_get('expression_background')">
+	<interactive_background="=:A5.system_color_get('expression_background')">
+	<html_background="=:a5.System_Color_Get('expression_background')">
+	<css_background="=:A5.system_color_get('expression_background')">
+	<inner_css_background="=:A5.system_color_get('expression_background')">
+    <line_number_highlight_background="=:A5.system_color_get('expression_background')">
+
+<expression_highlight_background="#173,214,197">
+    <code_highlight_background="=:A5.system_color_get('expression_highlight_background')">
+    <html_highlight_background="=:A5.system_color_get('expression_highlight_background')">
+    <css_highlight_background="=:A5.system_color_get('expression_highlight_background')">
+    <inner_css_highlight_background="=:A5.system_color_get('expression_highlight_background')">
+
+<line_number="#198,198,198">
+    <line_number_highlight="=:A5.system_color_get('line_number')">
+
+<debugger_highlight_line="System-InfoBackground">
+<version="12.0">
